@@ -1,5 +1,4 @@
-I'm Lloyd Thomas, Programmer in Web and Game Development, and 
-Electrical & Electronic Engineering Student.
+I'm Lloyd Thomas, Programmer in Web and Game Development, and Electronic Engineering Student.
 
 My background is mostly Computer studies and practices, as a Programmer
 in Web and Games, using languages such as: JavaScript, PHP, C#, C++, Java
