@@ -10,7 +10,4 @@ for games. Game Engine of choice for myself in development is UE4.
 
 I have recently started to express my interests in Robotics, and program hardware manually, 
 using control board altering software such as Arduino, and programming languages like C++,
-to give the hardware new instructions. 
-
-In particular I express interests in Design and Prototyping circuits in Robotics, and to 
-be able to program the hardware myself.
+to give the hardware new instructions.
