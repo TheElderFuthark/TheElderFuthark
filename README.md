@@ -11,7 +11,7 @@ practices and contexts, such as: Full-Stack Web Development, System Security, UI
 
 
 I also have experience in programming in Electronics and Robotics, and although I do not wish to pursue these areas at this time,
-I do possess the Electrical and Electronic theory, as well as experience Programming the Lego Mindstorm, and also the ability to apply it to code, written in C++ using an Arduino Uno, via the Arduino IDE.
+I do possess the Electrical and Electronic theory, as well as experience Programming the Lego Mindstorm, and also the ability to apply Electronic programs, written in C++ used on an Arduino Uno, uploaded to the board via the Arduino IDE for prototyping reasons.
 
 
 I am an ambitious and determined programmer, of which is able to work as an 
