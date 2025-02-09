@@ -8,4 +8,6 @@ I've also had experience making Electronics programs for hardware like the Ardui
 
 That said, I furthermore have a lot of hands-on implementations of gameplay systems over modules written for the use of Graphics, textures and shaders and so on, but at least know how to use them side by side.
 
+I also understand each stage of producing single-page web apps, using something like React, or instead Vue using an MVC controlled server applications, like PHP using Laravel or .NET. 
+
 Overall I am a great team player, that is able to work alone, or be an approachable person to bounce off, should someone else need my help.
