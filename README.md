@@ -1,4 +1,4 @@
-I'm Lloyd Thomas, Physics Student (BSc) & Software Developer in Games, Web & App Development.
+I'm Lloyd Thomas, Software Developer in Games, Web & Android App Development.
 
 Gathering the relevant abilities and experience, knowledge and my nature of breakthrough of work, I am able to produce very clean and robust code, that does exactly what is desired, necessary and efficient, just as much as humanly readable software - and furthermore reusable and extendable.
 
